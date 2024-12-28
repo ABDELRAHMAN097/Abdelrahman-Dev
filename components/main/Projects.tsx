@@ -12,7 +12,7 @@ const Projects = () => {
       <h1 className="text-[40px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 py-20">
         My Projects
       </h1>
-       <div className="w-full flex flex-wrap gap-10 px-10 justify-center">
+       <div className="w-full flex flex-wrap gap-5 px-10 justify-center">
         <ProjectCard
           src="/project03.png"
           title="Modern React.js Dental center"
