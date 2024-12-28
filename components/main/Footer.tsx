@@ -122,7 +122,7 @@ const Footer = () => {
         </div>
 
         <div className="mb-[20px] text-[15px] text-center">
-          &copy; Abdelrahman Dev 2023 Inc. All rights reserved
+          &copy; Abdelrahman Magdy 2023 Inc. All rights reserved
         </div>
       </div>
     </div>
